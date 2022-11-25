@@ -49,7 +49,9 @@ Para la simulación se realizo el diseño de las piezas con las que se iba a tra
 
 Durante esta simulación daban algunos targets fallidos, para esto fue necesario revisar las orientaciones de los mismos, pues estos tienen configuraciones opuestas a las del manipulador, por lo tanto fue necesario realizar pistas intermedias para que el robot pudiera alcanzar los targets necesarios según la orientación y posición objetivo.
 
-[![WorhObject](https://img.youtube.com/vi/9qHaZTjxoxA/0.jpg)](https://youtu.be/9qHaZTjxoxA)
+[![WorhObject](https://img.youtube.com/vi/8Jlcn76TU88/0.jpg)](https://youtu.be/8Jlcn76TU88)
+
+Luego de esto se procedió a implementar el código de RAPID en el controlador ABB.
 
 
 # Resultados
