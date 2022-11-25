@@ -38,8 +38,18 @@ Finalmente se realizo la impresión 3D de esta herramienta en ácido poliláctic
 
 Para el ensamble del sistema, se preparo el espacio de trabajo colocando las piezas del gripper y realizando la respectiva calibración. En cuanto a la herramienta se acomodo la ventosa, al diseño presentado anteriormente, y luego de esto se atornillo al plato portaherramienta con los respectivos tornillos M5, sin pasar de la respectiva medida recomendada.
 
-![Workobject](/Img/WORK.mp4)
+[![WorhObject](https://img.youtube.com/vi/LBgoFYejHUw/0.jpg)](https://youtube.com/shorts/LBgoFYejHUw?feature=share)
 
 # Espacio de trabajo 
 # Simulación
+
+Para la simulación se realizo el diseño de las piezas con las que se iba a trabajar en Inventor, luego estas se exportaron a Robot Studio para poder crear el espacio de trabajo de manera adecuada, se realizo el seguimiento de las trayectorias a lo largo de toda la pieza con el manipulador.
+
+[![WorhObject](https://img.youtube.com/vi/9qHaZTjxoxA/0.jpg)](https://youtu.be/9qHaZTjxoxA)
+
+Durante esta simulación daban algunos targets fallidos, para esto fue necesario revisar las orientaciones de los mismos, pues estos tienen configuraciones opuestas a las del manipulador, por lo tanto fue necesario realizar pistas intermedias para que el robot pudiera alcanzar los targets necesarios según la orientación y posición objetivo.
+
+[![WorhObject](https://img.youtube.com/vi/9qHaZTjxoxA/0.jpg)](https://youtu.be/9qHaZTjxoxA)
+
+
 # Resultados
