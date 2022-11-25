@@ -9,7 +9,17 @@ A nivel industrial se busca optimizar de manera correcta algunos procesos, de mo
 
 # Diseño del Gripper
 
+El diseño planteado fue inspirado en unas pinzas de presión.
 
+![Pinzas_depresion](/Img/PinzasPresion.jpg)
+
+Al analizar esta herramienta se notó que es un mecanismo de cuatro barras. Con esto en mente se empezaron a diseñar los eslabones que conformarían el ensamble. Para este proceso se tuvo en cuenta la siguiente consideración; que el ancho de estos no debería ser menor de 50mm, con el objetivo de facilitar la adhesión de las piezas a la ventosa. Por otro lado, el diámetro de los agujeros para los pasadores se determinó de 8mm, decisión orientada a prevenir contratiempos en el proceso del ensamble. Tomando en cuenta las consideraciones previamente mencionadas, se modeló el gripper en Inventor, variando las distancias entre agujeros (longitudes del mecanismo de cuatro barras) hasta tener un resultado satisfactorio, resultando en las siguientes piezas. 
+
+![PlanoGripper](/Img/planoGripperPiezas.jpg)
+
+Como se ve en la imagen superior, las distancias del mecanismo de cuatro barras resultaron siendo de 50, 80, 80 y 75 mm. Con lo que se obtiene el siguiente montaje.
+
+Para fabricar el gripper se optó por usar corte laser en MDF por su bajo costo, reducido tiempo de producción y además porque el material residual del proceso se puede utilizar directamente como la base de recogida para el proceso de ensamblaje. 
 
 # Diseño herramienta
 
