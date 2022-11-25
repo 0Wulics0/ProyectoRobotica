@@ -38,8 +38,6 @@ Finalmente se realizo la impresión 3D de esta herramienta en ácido poliláctic
 
 Para el ensamble del sistema, se preparo el espacio de trabajo colocando las piezas del gripper y realizando la respectiva calibración. En cuanto a la herramienta se acomodo la ventosa, al diseño presentado anteriormente, y luego de esto se atornillo al plato portaherramienta con los respectivos tornillos M5, sin pasar de la respectiva medida recomendada.
 
-[![Video Calibración](https://drive.google.com/drive/folders/125x7aOFyp83MnJKftMWaw2paGF1vTkP0)
-
 
 # Espacio de trabajo 
 # Simulación
