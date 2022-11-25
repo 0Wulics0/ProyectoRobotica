@@ -19,7 +19,7 @@ Para el diseño de la herramienta se tuvo en cuenta el dimensionamiento de la ve
 
 A partir de esto se modelo en Inventor la ventosa, para realizar un dimesionamiento correcto.
 
-![Ventonsa Modelado](/Img/Ventosa3D.jpeg)
+![Ventonsa Modelados](/Img/Ventosa3D.jpeg)
 
 Luego de esto se comenzó el diseño de la herramienta con los parámetros dados, tal como la orientación de la ventosa con respecto al eje Z, del plato portaherramientas.
 
@@ -38,7 +38,7 @@ Finalmente se realizo la impresión 3D de esta herramienta en ácido poliláctic
 
 Para el ensamble del sistema, se preparo el espacio de trabajo colocando las piezas del gripper y realizando la respectiva calibración. En cuanto a la herramienta se acomodo la ventosa, al diseño presentado anteriormente, y luego de esto se atornillo al plato portaherramienta con los respectivos tornillos M5, sin pasar de la respectiva medida recomendada.
 
-[![Video Calibración](https://drive.google.com/file/d/1RL2WYU5-tY1Rjtqqvj5dVMWX3mKWD_Pw/view?usp=sharing)
+[![Video Calibración](https://drive.google.com/drive/folders/125x7aOFyp83MnJKftMWaw2paGF1vTkP0)
 
 
 # Espacio de trabajo 
