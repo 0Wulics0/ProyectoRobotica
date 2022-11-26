@@ -3,6 +3,11 @@
 ## Robótica
 ### Jorge Daza, Camilo Martín, Daniel Pineda, Daniel Melo, Santiago Mariño
 
+# Video Resumen
+
+[![WorhObject](https://i9.ytimg.com/vi/8abgrcEJzHc/mqdefault.jpg?sqp=CJyqhpwG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLB2wZpqk7p27vk9Y6hiBvmjZlXTBg)](https://www.youtube.com/watch?v=8abgrcEJzHc&ab_channel=jorgeandresdazarodriguez)
+(Video)
+
 # Introducción
 
 A nivel industrial se busca optimizar de manera correcta algunos procesos, de modo que aumente la eficiencia de los mismos. En este proyecto se busca diseñar e implementar una herramienta personalizada para realizar un proceso de ensamble de un gripper, mediante una ventosa controlada por una señal digital conectada a una electroválvula. Para ellos se realizaron corroboraciones de la programación mediante simulaciones en Robot Studio y pruebas de firmeza para la ventosa.
