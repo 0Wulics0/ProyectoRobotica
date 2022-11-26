@@ -19,6 +19,9 @@ Al analizar esta herramienta se notó que es un mecanismo de cuatro barras. Con 
 
 Como se ve en la imagen superior, las distancias del mecanismo de cuatro barras resultaron siendo de 50, 80, 80 y 75 mm. Con lo que se obtiene el siguiente montaje.
 
+[![Movimiento Gripper](http://img.youtube.com/vi/gOWi3OqY_q4/0.jpg)](https://www.youtube.com/watch?v=gOWi3OqY_q4&ab_channel=DanielPineda)
+ [video](https://www.youtube.com/watch?v=gOWi3OqY_q4&ab_channel=DanielPineda)
+ 
 Para fabricar el gripper se optó por usar corte laser en MDF por su bajo costo, reducido tiempo de producción y además porque el material residual del proceso se puede utilizar directamente como la base de recogida para el proceso de ensamblaje. 
 
 # Diseño herramienta
