@@ -81,3 +81,6 @@ Luego de esto se procedió a implementar el código de RAPID en el controlador A
 
 # Resultados
 Finalmente, y pese a los inconvenientes que se tuvieron al crear el workobject de la base de recogida, se logró llevar a cabo exitosamente el ensamble del gripper, esto se puede apreciar en el siguiente video.
+
+[![Conjunto ensamble](http://img.youtube.com/vi/lHi_EfEtfV0/0.jpg)](https://www.youtube.com/watch?v=lHi_EfEtfV0&ab_channel=santiagomari%C3%B1o)
+ [video](https://www.youtube.com/watch?v=lHi_EfEtfV0&ab_channel=santiagomari%C3%B1o)
