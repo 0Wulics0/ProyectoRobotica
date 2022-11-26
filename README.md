@@ -69,8 +69,8 @@ Para el ensamble del sistema, se preparo el espacio de trabajo colocando las pie
 
 Para generar las trayectorias necesarias para el proceso de ensamble, primero se modeló en inventor el material restante del corte laser, el cual sería usado como plataforma de recogida para la operación, así como la plataforma de ensamblaje. Los work objects correspondientes a estas plataformas se crearon por el método de tres puntos, de la siguiente manera.
 
-![PlataformaRecogida](/Img/WOT1)
-![PlataformaRecogida](/Img/WOT2)
+![PlataformaRecogida](Img/BaseMontada.PNG)
+![PlataformaRecogida](Img/EspacioFinal.PNG)
 
 Sin embargo, en el caso de la plataforma de recogida, el corte laser no resultó como se esperaba, por lo que en la práctica se tuvo que, primero ajustar las plataformas en el espacio diestro del robot para así definir los work objects por el método previamente mencionado (como se puede ver en el primer video de la sección “Ensamble”), para posteriormente hacer un fino ajuste manual con el fin conseguir que la posición de las piezas coincidiera con las que se encuentran en el programa. 
 # Simulación
