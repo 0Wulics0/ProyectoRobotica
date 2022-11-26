@@ -45,6 +45,10 @@ Luego de esto se comenzó el diseño de la herramienta con los parámetros dados
 
 Se observa que para obtener poco despercio de material se realizó un diseño con partes huecas, esto no afectará la implementación de la herramienta pues esta, estará sometida a pocas cargas o esfuerzos (cortantes), en esta zona. Así mismo se observa que en la base que irán diversos agujeros para unir este dispositivo con el controlador ABB.
 
+El plano de dicha herramienta se encuentra a continuación.
+
+![Plano Herramienta](Img/plano-herramienta-ventosa-1.png)
+
 ![Herramienta Inventor 3D](/Img/HerramientaInventor3D.jpeg)
 
 Finalmente se realizo la impresión 3D de esta herramienta en ácido poliláctico (PLA), el resultado final se presenta a continuación.
