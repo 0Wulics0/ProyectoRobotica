@@ -44,6 +44,8 @@ Finalmente se realizo la impresión 3D de esta herramienta en ácido poliláctic
 ![Herramienta](/Img/Herramienta.jpeg)
 
 # Materiales del proyecto
+Para la fabricación de las piezas utilizadas en este proyecto se utilizó, MDF para las plataformas de recogida y ensamblaje, así como para las piezas del gripper por su baja rugosidad y precio, para la segunda plataforma, se utilizó balso como material de los pasadores, esto por su bajo precio y resistencia mecánica, pues en caso de que se produjera algún error en la ejecución del programa, se romperían los pasadores mas no las piezas del gripper ni el portaherramientas. Por último, se utilizó PLA para el fabricar el portaherramientas mediante manufactura aditiva y así poder conseguir las geometrías planteadas en la sección anterior.
+
 # Ensamble
 
 Para el ensamble del sistema, se preparo el espacio de trabajo colocando las piezas del gripper y realizando la respectiva calibración. En cuanto a la herramienta se acomodo la ventosa, al diseño presentado anteriormente, y luego de esto se atornillo al plato portaherramienta con los respectivos tornillos M5, sin pasar de la respectiva medida recomendada.
